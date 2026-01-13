@@ -1,3 +1,31 @@
+/* Base page settings */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: Black;
+  color: Green;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Header (Green banner) */
+header {
+  background-color: Green;
+  color: Black;
+  text-align: center;
+  padding: 0.3em 0;     
+  margin: 0;
+  line-height: 1;        
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 3em;
+  line-height: 1.2em;    
+}
+
 .container {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap onto new lines */
@@ -10,12 +38,12 @@
 
 .container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+  grid-template-columns: repeat(2, 1fr); /* Three equal columns */
   gap: 10px; /* Space between grid items */
 }
 l
 .scroll-container {
-  height: 100vh; /* Full viewport height */
+  height: 80vh; /* Full viewport height */
   overflow-y: scroll; /* Enable vertical scrolling */
   scroll-behavior: smooth; /* Smooth scrolling */
 }
