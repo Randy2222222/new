@@ -31,18 +31,21 @@ header h1 {
   flex-wrap: wrap; /* Allows items to wrap onto new lines */
 }
 
-.item {
-  flex: 1; /* Each item takes equal space */
+.item 2{
+  flex: 70vw; /* Each item takes equal space */
   margin: 10px; /* Space between items */
 }
 
 .container {
   display: grid;
+  grid-template-row: repeat(2, 1fr);
   grid-template-columns: repeat(2, 1fr); /* Three equal columns */
   gap: 10px; /* Space between grid items */
 }
-l
+
+2
 .scroll-container {
+  width: 70vw;
   height: 80vh; /* Full viewport height */
   overflow-y: scroll; /* Enable vertical scrolling */
   scroll-behavior: smooth; /* Smooth scrolling */
