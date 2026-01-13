@@ -31,7 +31,7 @@ header h1 {
   flex-wrap: wrap; /* Allows items to wrap onto new lines */
 }
 
-.item 2{
+.item 4{
   flex: 70vw; /* Each item takes equal space */
   margin: 10px; /* Space between items */
 }
@@ -46,7 +46,7 @@ header h1 {
   align-left: 
   width: 30vw;
   height: 80vh; /* Full viewport height */
-* Enable vertical scrolling */
+/* Enable vertical scrolling */
 /* Smooth scrolling */
 }
 
