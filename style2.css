@@ -5,7 +5,7 @@ html, body {
   background-color: tan;
   color: saddlebrown;
   font-family: Arial, sans-serif;
-  text-align: center;
+/*  text-align: center; */
 }
 
 /* Header (blue banner) */
@@ -24,14 +24,14 @@ header h1 {
   line-height: 1.2em;  /* vertically centered text */
 	background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
-	h2 {
+/*	h2 {
   background-color: tan;
   color: saddlebrown;
   font-size: 1.5em;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
   
-}
+}*/
 
 .grid-container {
 			display: grid;
@@ -57,10 +57,5 @@ header h1 {
 			 background-color: tan;
 			  color: saddlebrown;
 			  text-align: center;
-			  padding: 0;
-			  margin-bottom: 0;
-			  font-size: 3em;
-			  line-size: 1.2em;
-			  background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);
+			
 		  }
