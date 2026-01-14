@@ -34,17 +34,18 @@ h2 {
   padding: 20px auto 20px auto;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
+}
   .container {
     position: left;
     margin-right: 75%;
     margin-left: 0%;
     padding: 0 800px 200px 80px;
-  }
-    
+  
+
   
   
   
-  sidebar{
+     .sidebar{
     top: 15%;
     left: 0;
     display: fixed;
@@ -53,10 +54,10 @@ h2 {
    align-text: left;
     background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
+  } 
+  }
     
-    
-    
-}
+
 .container {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap onto new lines */
