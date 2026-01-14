@@ -14,8 +14,9 @@ header {
   color: saddlebrown;
   text-align: center;
   padding: 0.3em 0;      /* thin height */
+  text-size: 3em;
   margin: 0;
-  line-height: 1;        /* tighten blue bar */
+  line-height: 1.2em;        /* tighten blue bar */
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
@@ -27,6 +28,13 @@ header h1 {
   line-height: 1.2em;  /* vertically centered text */
 	background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
+	h2 {
+  background-color: tan;
+  color: saddlebrown;
+  font-size: 1.5em;
+  background-image: radial-gradient(ivory,
+                                tan,  saddlebrown);
+  
 }
 
 .grid-container {
@@ -53,6 +61,8 @@ header h1 {
 			 background-color: tan;
 			  color: saddlebrown;
 			  text-align: center;
+			  padding: 0;
+			  margin-bottom: 0;
 			  font-size: 3em;
 			  line-size: 1.2em;
 			  background-image: radial-gradient(ivory,
