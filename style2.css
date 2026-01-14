@@ -5,7 +5,6 @@ html, body {
   background-color: tan;
   color: saddlebrown;
   font-family: Arial, sans-serif;
-  text-align: center; 
 
 }
 
@@ -15,12 +14,14 @@ header {
   color: saddlebrown;
   padding: 0.3em 0;      /* thin height */
   line-height: 1.2em;        /* tighten blue bar */
+	
 
 }
 
 header h1 {
   margin: 0;
   padding: 0;
+  text-align: center;
   font-size: 3em;
   line-height: 1.2em;  /* vertically centered text */
 	background-image: radial-gradient(ivory,
@@ -29,6 +30,7 @@ h2 {
   background-color: tan;
   color: saddlebrown;
   font-size: 1.5em;
+  text-align: center;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
   
@@ -45,7 +47,7 @@ h2 {
 			font-size: .7em;
 			background-color: tan;
 			padding: 20px;
-			text-align: center;
+		
 		}
 
 
