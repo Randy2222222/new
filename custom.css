@@ -45,6 +45,7 @@ h2 {
  p { 
    text-align: center;
    color: saddlebrown;
+   padding: 10px auto autp auto;
    font-size: 10px;
  }
   
