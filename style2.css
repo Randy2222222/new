@@ -24,14 +24,14 @@ header h1 {
   line-height: 1.2em;  /* vertically centered text */
 	background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
-/*	h2 {
+h2 {
   background-color: tan;
   color: saddlebrown;
   font-size: 1.5em;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
   
-}*/
+}
 
 .grid-container {
 			display: grid;
@@ -41,6 +41,7 @@ header h1 {
 		}
 
 		.grid-item {
+			font-size: .7em;
 			background-color: tan;
 			padding: 20px;
 			text-align: center;
