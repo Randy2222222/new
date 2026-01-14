@@ -9,15 +9,16 @@ body {
 }
 
 header {
-  background-color: #4CAF50;
-  color: white;
+  background-color: tan;
+  text-size: 3em;
+  color: saddlebrown;
   text-align: center;
   padding: 1rem;
 }
 
 footer {
-  background-color: #333;
-  color: white;
+  background-color: tan;
+  color: saddlebrown;
   text-align: center;
   padding: 1rem;
   position: absolute;
@@ -31,15 +32,15 @@ footer {
 }
 
 .left-column {
-  width: 70%;
+  width: 30%;
   padding: 1rem;
-  background-color: #f4f4f4;
+  background-color: ivory;
 }
 
 .right-column {
-  width: 30%;
+  width: 70%;
   padding: 1rem;
-  background-color: #ddd;
+  background-color: ivory
   overflow-y: auto;
   height: 100%;
 }
