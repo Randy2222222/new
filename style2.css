@@ -16,6 +16,8 @@ header {
   padding: 0.3em 0;      /* thin height */
   margin: 0;
   line-height: 1;        /* tighten blue bar */
+  background-image: radial-gradient(ivory,
+                                tan,  saddlebrown);
 }
 
 header h1 {
