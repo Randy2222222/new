@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: black;
-  color: tan;
+  background-color: ivory;
+  color: saddlebrown;
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -19,6 +19,8 @@ header {
 }
 
 header h1 {
+  background-color: tan;
+  color: saddlebrown;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -27,11 +29,23 @@ header h1 {
 }
 
 h2 {
-  backgroud-color: ivory;
+  backgroud-color: tan;
   color: saddlebrown;
   padding: 20px auto 20px auto;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
+  .container sidebar{
+    top: 15%;
+    left: 0;
+    display: fixed;
+    background-color: color;
+    color: saddlebrown;
+   align-text: left;
+    background-image: radial-gradient(ivory,
+                                tan,  saddlebrown);
+    
+    
+    
 }
 .container {
   display: flex;
@@ -47,6 +61,8 @@ h2 {
 .scroll-container {
   background-color: ivory;
   color: saddlebrown;
+  right: 100%;
+  top: 15%;
   width: 70vw;
   height: 80vh; /* Full viewport height */
   over-flow: scroll; /* Enable vertical scrolling */
