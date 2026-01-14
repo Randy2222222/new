@@ -5,7 +5,8 @@ html, body {
   background-color: tan;
   color: saddlebrown;
   font-family: Arial, sans-serif;
-/*  text-align: center; */
+  text-align: center; 
+
 }
 
 /* Header (blue banner) */
@@ -57,6 +58,4 @@ h2 {
           footer {
 			 background-color: tan;
 			  color: saddlebrown;
-			  text-align: center;
-			
 		  }
