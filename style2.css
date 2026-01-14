@@ -23,8 +23,10 @@ header {
 header h1 {
   margin: 0;
   padding: 0;
-  font-size: 2em;
-  line-height: 1.2em;    /* vertically centered text */
+  font-size: 3em;
+  line-height: 1.2em;  /* vertically centered text */
+	background-image: radial-gradient(ivory,
+                                tan,  saddlebrown);
 }
 
 .grid-container {
@@ -47,4 +49,12 @@ header h1 {
             background-color: tan;
             padding: 20px;
         }
-
+          footer {
+			 background-color: tan;
+			  color: saddlebrown;
+			  text-align: center;
+			  font-size: 3em;
+			  line-size: 1.2em;
+			  background-image: radial-gradient(ivory,
+                                tan,  saddlebrown);
+		  }
