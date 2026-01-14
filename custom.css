@@ -33,17 +33,20 @@ header h1 {
   padding: 0;
   text-align: center;
   font-size: 3em;
-  line-height: 1.2em;    
+  line-height: 1.2em;   
+  background-image: radial-gradient(ivory,
+                                tan,  saddlebrown);
 }
 
 h2 {
   backgroud-color: tan;
+  text-align: center;
   color: saddlebrown;
-  padding: 20px 20px 20px 20px;
+  font-size: 1.2em;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
  p { 
-   text-align: right;
+   text-align: center;
    color: saddlebrown;
    padding: 10px 20px autp 20px;
    font-size: 10px;
