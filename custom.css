@@ -43,9 +43,9 @@ h2 {
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
  p { 
-   text-align: center;
+   text-align: right;
    color: saddlebrown;
-   padding: 10px auto autp auto;
+   padding: 10px 20px autp 20px;
    font-size: 10px;
  }
   
