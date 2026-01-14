@@ -31,15 +31,15 @@ h2 {
   color: saddlebrown;
   padding: 20px auto 20px auto;
 }
-p {}
+
 
 .container {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap onto new lines */
   justify-content: right;
   text-align: center;
-  background-color: black;
-  color: tan;
+  background-color: tan
+  color: saddlebrown
   background-image: radial-gradient(ivory
                                 tan, saddlebrown);
   
