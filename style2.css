@@ -45,7 +45,8 @@ h2 {
 		.grid-item {
 			font-size: .7em;
 			background-color: tan;
-			padding: 0;
+			padding: 20px, auto;
+			text-align: center;
 		
 		}
 
