@@ -8,7 +8,7 @@ html, body {
  /* text-align: center;*/
 }
 
-/* Header (Green banner) */
+/* Header */
 header {
   background-color: tan;
   color: saddlebrown;
@@ -17,7 +17,7 @@ header {
   margin: 0;
   line-height: 1;
   background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);
+                                tan,  saddlebrown);  /* Gradient */
 }
 
 header h1 {
