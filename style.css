@@ -36,8 +36,8 @@ header h1 {
 }
 
 h2 {
-  backgroud-color: tan;
-  text-size: 4em;
+  background-color: tan;
+  font-size: 4em;
   font-weight: 800;
   color: saddlebrown;
   margin: 0px auto 10px auto;
@@ -48,8 +48,8 @@ h2 {
 }
 
 h3 {
-  backgroud-color: tan;
-  text-size: 2em;
+  background-color: tan;
+  font-size: 2em;
   color: saddlebrown;
   margin: 0px auto 10px auto;
   padding: 10px auto 10px auto;
@@ -61,8 +61,8 @@ h3 {
  p {
   background-color: tan;
   color: saddlebrown;
-  text-weight: bold;
-  text-size: 1.8em;
+  font-weight: bold;
+  font-size: 1.8em;
   text-align: center;
   line-height: 50%;
 }
