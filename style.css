@@ -67,25 +67,23 @@ h3 {
 }
 
 /*  .container {
-    position: left;
+    display: flex;
+    jusrify content: left;
+    text-align: center;
     margin-right: 75%;
     margin-left: 0%;
-    padding: 0 800px 200px 80px;
-  
+    background-color: ivory;
+    color: saddkebrown;
+}
 
-  
-  
-  
      .sidebar{
-    top: 15%;
+    top: 0%;
     left: 0;
-    display: fixed;
-    background-color: color;
-    color: saddlebrown;
-   align-text: left;
+    width: 40%vw;
+    height: 100%vh;
     background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
-  } 
+  
   } */
     
 /* Scroll Container doesn't scrooll but does make box */
