@@ -14,9 +14,6 @@ header {
   color: saddlebrown;
   text-align: center;
   text-size: 3.0em;
-  border: 2px solid tan;
-  padding: 10px autp 10px auto;
-  margin: 0px auto 10px auto;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
@@ -24,11 +21,9 @@ header {
 header h1 {
   background-color: tan;
   color: saddlebrown;
-  margin: 0px auto 10px auto;
-  padding: 10px auto 10px auto;
   text-align: center;
   font-size: 3em; 
-  border: 2px solid tan;
+  line-height: 1.2em;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
