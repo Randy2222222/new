@@ -27,7 +27,8 @@ header h1 {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-size: 3em;
+  font-size: 4.5em;
+  font-weight: bold;
   line-height: 1.2em; 
 /*  border: 2px solid saddlebrown; */
   background-image: radial-gradient(ivory,
@@ -36,7 +37,7 @@ header h1 {
 
 h2 {
   backgroud-color: tan;
-  text-size: 3.5em;
+  text-size: 4em;
   font-weight: 800;
   color: saddlebrown;
   margin: 0px auto 10px auto;
@@ -61,7 +62,7 @@ h3 {
   background-color: tan;
   color: saddlebrown;
   text-weight: bold;
-  text-size: 1.2em;
+  text-size: 1.8em;
   text-align: center;
   line-height: 50%;
 }
