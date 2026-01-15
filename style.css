@@ -87,7 +87,6 @@ h2 {
 }
 
 footer { 
-  position: fixed;/* put fixed in*/
   background-color: tan;
   color: saddlebrown;
   margin: 10px auto 0px auto;
