@@ -37,6 +37,7 @@ header h1 {
 h2 {
   backgroud-color: tan;
   text-size: 2.5em;
+  font-weight: bold;
   color: saddlebrown;
   margin: 0px auto 10px auto;
   padding: 10px auto 10px auto;
