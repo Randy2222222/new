@@ -16,7 +16,7 @@ header {
   padding: 0.3em 0;     
   margin: 0;
   line-height: 1;
-  border: 2px solid saddlebrown;
+/*  border: 2px solid saddlebrown;*/
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
