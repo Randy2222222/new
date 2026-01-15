@@ -90,7 +90,7 @@ h3 {
 /* Scroll Container doesn't scrooll but does make box */
 .container {
   display: flex;
-  flex-grow: 2;
+  flex-grow: 3;
   flex-wrap: wrap;/* Allows items to wrap onto new lines */
   justify-content: right; /* change from right*/
   text-align: center;
