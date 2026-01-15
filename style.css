@@ -81,23 +81,11 @@ h2 {
   top: 0%;
   width: 60vw; /* was 70% top was 15% */
   height: 80vh; /* Full viewport height was 100% */
-  over-flow-y: auto; /* Enable vertical scrolling | over-flow-y scroll |*/
+  over-flow-y: scroll;/* Enable vertical scrolling | over-flow-y scroll |*/
   scroll-behavior: smooth; /* Smooth scrolling */
   border: 2px solid saddlebrown;
 }
-scroll-text { /* added till footer */
-  white-space: nowrap;
-  animation: scroll 10s linear infinite;
-}
 
-@keyframes scroll {
-  0% {
-    transform: translateY(100%);
-  }
-  100% {
-    transform: translateY(-100%);
-  }
-}
 footer { 
   position: fixed;/* put fixed in*/
   background-color: tan;
