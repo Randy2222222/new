@@ -36,10 +36,11 @@ header h1 {
 
 h2 {
   backgroud-color: tan;
-  text-size: 2em;
+  text-size: 2.5em;
   color: saddlebrown;
   margin: 0px auto 10px auto;
   padding: 10px auto 10px auto;
+  border-bottom: 2px solid saddlebrown;
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
