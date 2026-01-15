@@ -83,6 +83,7 @@ h2 {
   height: 70vh; /* Full viewport height was 100% */
   over-flow-y: auto; /* Enable vertical scrolling | over-flow-y scroll |*/
   scroll-behavior: smooth; /* Smooth scrolling */
+  border: 2px solid saddlebrown;
 }
 footer { 
   background-color: tan;
