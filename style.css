@@ -13,7 +13,8 @@ header {
   background-color: tan;
   color: saddlebrown;
   text-align: center;
-  padding: 0.3em 0;     
+/*  padding: 0.3em 0;   */
+  border: 2px solid saddlebrown;
   margin: 0;
   line-height: 1;
   background-image: radial-gradient(ivory,
@@ -28,7 +29,7 @@ header h1 {
   text-align: center;
   font-size: 3em;
   line-height: 1.2em; 
-  border: 2px solid saddlebrown;
+/*  border: 2px solid saddlebrown; */
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
