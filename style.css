@@ -138,7 +138,7 @@ h3 {
 
 /* Style page content */
 .main {
-  margin-right: 160px; /* Same as the width of the sidebar */
+  margin-right: 360px; /* Same as the width of the sidebar 160 */
   padding: 0px 10px;
   font-size: 28px;
   width: 40%;
@@ -155,7 +155,7 @@ h3 {
 footer { 
   background-color: tan;
   color: saddlebrown;
-  margin-bottom: 0px;
+  margin-bottom: -100px;
   margin-left: 0px;
   margin-right: 0px;
   padding: 10px auto 10px auto;
