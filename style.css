@@ -47,9 +47,10 @@ header h1 {
 }
 
 .gallery img {
-    width: 30%;
+    width: 50%;
     margin-right: 0px;
     cursor: pointer;
+    margin-border: 2px solid black;
 }
 
 
@@ -142,8 +143,8 @@ h3 {
   padding: 0px 10px;
   font-size: 28px;
   width: 40%;
-  height: 500px; /* 80% */
-  margin-border: 2px solid black;
+  height: 80%; /* 80% */
+  
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
@@ -153,7 +154,7 @@ h3 {
 }
 
 
-footer { 
+/*footer { 
   background-color: tan;
   color: saddlebrown;
   margin-bottom: 500px;
@@ -166,3 +167,4 @@ footer {
   background-image: radial-gradient(ivory,
                                 tan,  saddlebrown);
 }
+*/
