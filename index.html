@@ -34,13 +34,21 @@
 	
 	
 <h4></h4>
-	
+	<script type="module">
+import Lightbox from './photoswipe-lightbox.esm.js';
+const lightbox = new Lightbox({
+  gallery: '#my-gallery',
+  children: 'a',
+  pswpModule: () => import('./photoswipe.esm.js')
+});
+lightbox.init();
+</script>
 
 
 
 <script src="script.js"></script>
 </body>
-<footer><h3>⚓️ Nautical Store ⚓️</h3></footer>
+<footer><h3>📚 Samm's Book Store 📚</h3></footer>
 </html>
 
 
