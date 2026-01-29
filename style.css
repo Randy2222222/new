@@ -142,7 +142,8 @@ h3 {
   padding: 0px 10px;
   font-size: 28px;
   width: 40%;
-  height: 100%; /* 80% */
+  height: 500px; /* 80% */
+  margin-border: 2px solid black;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
@@ -155,7 +156,7 @@ h3 {
 footer { 
   background-color: tan;
   color: saddlebrown;
-  margin-bottom: -100px;
+  margin-bottom: 500px;
   margin-left: 0px;
   margin-right: 0px;
   padding: 10px auto 10px auto;
