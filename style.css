@@ -27,6 +27,7 @@ header h1 {
   display: block;
   background-color: tan;
   position: fixed;
+  width: 100%; 
   color: saddlebrown;
   margin: 0;
   padding: 0;
